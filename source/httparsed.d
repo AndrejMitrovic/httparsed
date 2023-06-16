@@ -991,4 +991,4 @@ else
     }
 }
 
-pragma(msg, "SSE: ", LDC_with_SSE42);
+//pragma(msg, "SSE: ", LDC_with_SSE42);
